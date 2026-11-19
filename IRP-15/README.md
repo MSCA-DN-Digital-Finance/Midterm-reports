@@ -57,7 +57,7 @@ No preprints are listed for this IRP.
 
 ## Manuscripts in progress
 
-Not yet in the MSCA catalogue. Drafts are shared on request, since they are coauthored or under review.
+Not yet in the MSCA catalogue
 
 - **AMMonitor: Onchain Monitoring of Stablecoin Depeg Risk**
 
