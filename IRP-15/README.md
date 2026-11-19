@@ -49,12 +49,10 @@ No preprints are listed for this IRP.
 
   [Zenodo](https://zenodo.org/records/24199645) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24199644)
 
-- **Polymarked: Improving physical density estimation with prediction markets**
+- **Polymarked**
 
   David Siang-Li Jheng · Owen Chaffard · Andrei-Theodor Ginavar · Stefan Gaman · Rahul Tak. In progress.
-
-  Tests whether Bitcoin prediction-market prices improve probability forecasts relative to historical returns and maturity-matched options. The catalogue reports preliminary improvements in calibration on Brier and log scores.
-
+---
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/polymarked)
 
 ## Manuscripts in progress
