@@ -52,7 +52,7 @@ No preprints are listed for this IRP.
 - **Polymarked**
 
   David Siang-Li Jheng · Owen Chaffard · Andrei-Theodor Ginavar · Stefan Gaman · Rahul Tak. In progress.
----
+
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/polymarked)
 
 ## Manuscripts in progress
