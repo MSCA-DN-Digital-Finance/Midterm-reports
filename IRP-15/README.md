@@ -105,7 +105,7 @@ Not yet in the MSCA catalogue
 
 ## Industry work (Cardo AI)
 
-- **Private credit use case** · generating financial time series for private-credit markets: a stylized-facts template and a verified loan × quarter panel from SEC filings (194,351 holding-quarters, 128 BDCs, 2022Q3–2026Q2).
+- **Private credit use case** · generating financial time series for private-credit markets: a stylized-facts template and a verified loan x quarter panel from SEC filings (194,351 holding-quarters, 128 BDCs, 2022Q3–2026Q2).
 - **SME loan tapes (credit risk)** · experiments on simulated loans with the structure of SME securitisation loan tapes and real Italian macro data:
   - audit and correction of a loan-status feature pipeline for a default model: 8 defects found and fixed;
   - selection of macro drivers of SME default for IFRS 9 forward-looking PD;
