@@ -3,7 +3,7 @@
 **Deep Generation of Financial Time Series**
 
 - **Doctoral candidate** · Andrei-Theodor Ginavar
-- **Affiliation** · Bucharest University of Economic Studies (ASE)
+- **Affiliation** · Cardo AI · Bucharest University of Economic Studies (ASE)
 
 Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-15.html)
 
