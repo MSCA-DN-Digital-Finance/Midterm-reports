@@ -73,23 +73,23 @@ Not yet in the MSCA catalogue
 
 - **Time-series foundation models and LLMs vs the true model for tail-risk forecasting**
 
-  Andrei-Theodor Ginavar (first author) et al. Experiments in progress; ITISE 2027 paper (January) and journal submission planned for March 2027.
+  Andrei-Theodor Ginavar (first author) et al. Experiments in progress.
 
   VaR/ES forecasts on simulated GARCH/GJR data, where the true model is known.
 
 - **MSCA paper 1: Classical, machine-learning and foundation models for macro forecasting: a real-time, two-economy benchmark**
 
-  Andrei-Theodor Ginavar. Data layer complete; evaluation harness in progress; submission planned June 2027.
+  Andrei-Theodor Ginavar. Data layer complete; evaluation harness in progress.
 
   Rates, inflation and unemployment for the US, the euro area and Italy, scored on real-time data vintages, with a leakage-free test of foundation models.
 
 - **MSCA paper 2: Forecast-conditioned generation of joint market scenarios** (with Ralf Korn, Fraunhofer ITWM) and **MSCA paper 3: Conditional vs structural scenarios**
 
-  Andrei-Theodor Ginavar. Planned for 2027; paper 2 as a short paper at ACM ICAIF 2027.
+  Andrei-Theodor Ginavar. 
 
 - **Stylized facts of private credit**
 
-  Andrei-Theodor Ginavar. Data stage; submission planned September 2027.
+  Andrei-Theodor Ginavar. Data stage currently.
 
   Loan-level panel from public SEC filings of business development companies. First finding: 29.3 % of quarterly loan marks do not move.
 
