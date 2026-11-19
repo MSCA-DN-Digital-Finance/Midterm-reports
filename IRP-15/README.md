@@ -13,7 +13,7 @@ The project focuses on using deep learning to generate financial time series. It
 
 **Candidate interests** · Time series forecasting, generative models, tail risk (VaR/ES), credit risk, DeFi.
 
-**Supervisors** · Daniel Traian Pele, Wolfgang Karl Härdle (ASE) · **Industry secondment** · Cardo AI, Milan (Jan 2026 – Mar 2027) · **Academic secondment** · Fraunhofer ITWM, Ralf Korn (Sep – Dec 2027)
+**Supervisors** · Daniel Traian Pele, Wolfgang Karl Härdle (ASE) · **Industry secondment** · Cardo AI, Milan (Jan 2026 – Mar 2027) · **Academic secondment** · Fraunhofer ITWM,Kaiserslautern (Sep – Dec 2027)
 
 **Midterm slides** · [IRP15_midterm_slides.pdf](IRP15_midterm_slides.pdf)
 
@@ -39,7 +39,7 @@ The project focuses on using deep learning to generate financial time series. It
 
 ## Preprints
 
-No preprints are listed for this IRP.
+No preprints listed for now, but the first paper below is on SSRN.
 
 ## Working papers
 
@@ -61,7 +61,7 @@ Not yet in the MSCA catalogue
 
 - **AMMonitor: Onchain Monitoring of Stablecoin Depeg Risk**
 
-  Owen Chaffard · Stefan Gaman · David Siang-Li Jheng · Megang Nkamga Junile Staures · Andrei-Theodor Ginavar · Wolfgang Karl Härdle. Submitted to a journal, November 2026.
+  Owen Chaffard · Stefan Gaman · David Siang-Li Jheng · Megang Nkamga Junile Staures · Andrei-Theodor Ginavar · Wolfgang Karl Härdle. Submitted November 2026.
 
   Onchain stablecoin microstructure, with an early-warning policy and a probabilistic forecast of depeg risk.
 
@@ -73,9 +73,9 @@ Not yet in the MSCA catalogue
 
 - **Time-series foundation models and LLMs vs the true model for tail-risk forecasting**
 
-  Andrei-Theodor Ginavar (first author) et al. Experiments in progress.
+  Andrei-Theodor Ginavar et al. Experiments in progress.
 
-  VaR/ES forecasts on simulated GARCH/GJR data, where the true model is known.
+  VaR/ES forecasts on simulated GARCH/GJR-GARCH data, where the true model is known.
 
 - **MSCA paper 1: Classical, machine-learning and foundation models for macro forecasting: a real-time, two-economy benchmark**
 
