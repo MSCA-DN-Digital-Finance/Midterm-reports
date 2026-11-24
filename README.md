@@ -2,7 +2,7 @@
 
 Research interests, publications, preprints and working papers for all 17 Individual Research Projects (IRPs). Paper catalogue snapshot taken on 24 November 2026.
 
-The reports cover 15 publications, 13 preprints and 13 working papers across the network. Shared papers appear in every associated IRP report, and the table counts them once per report.
+The reports cover 15 publications, 13 preprints and 13 working papers from the MSCA catalogue. Shared catalogue entries appear in every associated IRP report, and the table counts them once per report.
 
 Report categories use the linked deposit or proceedings metadata where the catalogue label is broad. IRP-9 lists the accepted manuscript under Preprints and links the available versions.
 
