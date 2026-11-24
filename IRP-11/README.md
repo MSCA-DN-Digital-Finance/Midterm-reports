@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Megang Nkamga Junile Staures
 - **Affiliation** · Kaunas University of Technology
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-11.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-11.html)
 
 ## Research interests
 

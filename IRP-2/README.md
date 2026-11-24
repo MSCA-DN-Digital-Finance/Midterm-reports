@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Manuele Massei
 - **Affiliation** · University of Twente
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-2.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-2.html)
 
 ## Research interests
 
@@ -19,7 +19,17 @@ No publications are listed for this IRP.
 
 ## Preprints
 
-No preprints are listed for this IRP.
+- **Integrating Physical Climate Hazards into Real Estate Collateral Valuation; A Stochastic Multi-Hazard Framework**
+
+  Ivar J. Mastwijk · Manuele Massei · Wouter van Heeswijk · Marcos Roberto Machado (2026). Preprint.
+
+  [Zenodo](https://zenodo.org/records/24365875) · [DOI](https://doi.org/10.2139/ssrn.7386106) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24365874)
+
+- **Sustainability-Related Risks in Credit Risk Modeling: Evidence, Limitations, and the Role of Machine Learning**
+
+  Manuele Massei · Wouter van Heeswijk · Xiaohong Huang · Laura Spierdijk (2026). Preprint.
+
+  [Zenodo](https://zenodo.org/records/24365791) · [DOI](https://doi.org/10.2139/ssrn.6292484) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24365790)
 
 ## Working papers
 

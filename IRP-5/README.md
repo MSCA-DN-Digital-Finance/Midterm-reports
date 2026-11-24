@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Unassigned in the MSCA directory
 - **Host institution** · WU Vienna University of Economics and Business
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-5.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-5.html)
 
 ## Research interests
 

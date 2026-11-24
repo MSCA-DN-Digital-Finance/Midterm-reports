@@ -5,7 +5,7 @@
 - **Doctoral candidate** · David Siang-Li Jheng
 - **Affiliation** · Bucharest University of Economic Studies (ASE)
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-8.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-8.html)
 
 ## Research interests
 
@@ -27,6 +27,12 @@ The project investigates anomalies and dependencies in high-dimensional, high-fr
 
   [Zenodo](https://zenodo.org/records/24196056) · [DOI](https://doi.org/10.24818/18423264/60.2.26.14) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24196055)
 
+- **ESG-Aware Asset Selection and Portfolio Optimization: A Comparative Study of Multi-Criteria Decision-Making Methods**
+
+  Ștefan Găman · Rahul Tak · Siang-Li Jheng · Daniel Traian Pele (2026). Conference paper · Proceedings of the International Conference on Business Excellence.
+
+  [Zenodo](https://zenodo.org/records/24377098) · [DOI](https://doi.org/10.2478/picbe-2026-0016) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24377097)
+
 - **Cryptocurrencies in a Changing Financial Landscape: A Systematic Review**
 
   Siang-Li Jheng · Alexandra Conda · Daniel Traian Pele · Wolfgang Karl Härdle (2025). Conference paper · Proceedings of the International Conference on Business Excellence.
@@ -35,7 +41,17 @@ The project investigates anomalies and dependencies in high-dimensional, high-fr
 
 ## Preprints
 
-No preprints are listed for this IRP.
+- **Do Established Cryptocurrency Findings Survive Extended Data?**
+
+  Siang-Li Jheng · Ștefan Găman · Alexandra Ioana Conda · Daniel Traian Pele · Wolfgang Karl Härdle · Huei-Wen Teng · Jörg Osterrieder (2026). Preprint.
+
+  [Zenodo](https://zenodo.org/records/24366570) · [DOI](https://doi.org/10.2139/ssrn.6008194) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24366569)
+
+- **Financial Risk Meters in Taiwan's High-Cap Sectors**
+
+  Siang-Li Jheng · Huei-Wen Teng · Wolfgang Karl Härdle (2025). Preprint.
+
+  [Zenodo](https://zenodo.org/records/24366583) · [DOI](https://doi.org/10.2139/ssrn.5080280) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24366582)
 
 ## Working papers
 

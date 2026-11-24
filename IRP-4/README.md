@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Mohamed Faid
 - **Affiliation** · University of Twente
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-4.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-4.html)
 
 ## Research interests
 
@@ -19,10 +19,20 @@ No publications are listed for this IRP.
 
 ## Preprints
 
-No preprints are listed for this IRP.
+- **AI-Based Financial Recommender Systems: A Systematic Review of Methods, Evaluation Practices, and Open Challenges**
+
+  Mohamed Faid · Wouter van Heeswijk · Laura Spierdijk (2026). Preprint.
+
+  [Zenodo](https://zenodo.org/records/24469999) · [DOI](https://doi.org/10.2139/ssrn.7113178) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24469998)
 
 ## Working papers
 
-No working papers are listed for this IRP.
+- **Can Large Language Models Construct Risk-Appropriate and Efficient Portfolios?**
+
+  Jens Reil · Mohamed Faid · Julius Kooistra. In progress · Catalogue year 2027.
+
+  Compares portfolios proposed by large language models across investor risk profiles with portfolios on the efficient frontier.
+
+  [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/can-large-language-models-construct-risk-appropriate-and-efficient-portfolios)
 
 [All midterm reports](../README.md)

@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Rahul Tak
 - **Affiliation** · Bucharest University of Economic Studies (ASE)
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-12.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-12.html)
 
 ## Research interests
 
@@ -27,9 +27,31 @@ The project develops deep-learning approaches for automated trading in financial
 
   [Zenodo](https://zenodo.org/records/24196056) · [DOI](https://doi.org/10.24818/18423264/60.2.26.14) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24196055)
 
+- **ESG-Aware Asset Selection and Portfolio Optimization: A Comparative Study of Multi-Criteria Decision-Making Methods**
+
+  Ștefan Găman · Rahul Tak · Siang-Li Jheng · Daniel Traian Pele (2026). Conference paper · Proceedings of the International Conference on Business Excellence.
+
+  [Zenodo](https://zenodo.org/records/24377098) · [DOI](https://doi.org/10.2478/picbe-2026-0016) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24377097)
+
+- **LLM-Driven Stock Prediction: Capturing Market Trends with LLaMA**
+
+  Rahul Tak · Daniel Traian Pele (2025). Conference paper.
+
+  [Zenodo](https://zenodo.org/records/24374971) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24374970)
+
 ## Preprints
 
-No preprints are listed for this IRP.
+- **AI Listening to Central Banks: From Words to Markets and Macroeconomic Outcomes**
+
+  Antoaneta Amza · Rahul Tak · Stefan-Daniel Caliman · Daniel Traian Pele (2026). Preprint.
+
+  [Zenodo](https://zenodo.org/records/24374719) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24374718)
+
+- **Racing the News: Nanosecond Market Efficiency at Eurex and CME**
+
+  Rahul Tak · Stefan Schlamp · Joerg Osterrieder · Daniel Traian Pele (2026). Preprint.
+
+  [Zenodo](https://zenodo.org/records/24373947) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24373946)
 
 ## Working papers
 

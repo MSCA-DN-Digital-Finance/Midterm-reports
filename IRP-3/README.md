@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Unassigned in the MSCA directory
 - **Host institution** · University of Twente
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-3.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-3.html)
 
 ## Research interests
 

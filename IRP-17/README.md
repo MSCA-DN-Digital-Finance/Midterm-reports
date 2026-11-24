@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Rebecca Di Francesco
 - **Affiliation** · Bern University of Applied Sciences (BFH)
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-17.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-17.html)
 
 ## Research interests
 

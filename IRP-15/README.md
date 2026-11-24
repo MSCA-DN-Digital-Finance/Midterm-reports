@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Andrei-Theodor Ginavar
 - **Affiliation** · Bucharest University of Economic Studies (ASE)
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-15.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-15.html)
 
 ## Research interests
 

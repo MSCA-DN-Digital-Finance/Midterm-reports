@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Fulvio Raddi
 - **Affiliation** · Babeș-Bolyai University (BBU)
 
-Source snapshot dated 19 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-13.html)
+Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-13.html)
 
 ## Research interests
 
