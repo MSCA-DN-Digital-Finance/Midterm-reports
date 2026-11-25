@@ -15,14 +15,26 @@ The project tests ways to reduce the time and computing resources used by AI in 
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 No publications are listed for this IRP.
+
+<!-- END MSCA PUBLICATIONS -->
 
 ## Preprints
 
+<!-- BEGIN MSCA PREPRINTS -->
+
 No preprints are listed for this IRP.
+
+<!-- END MSCA PREPRINTS -->
 
 ## Working papers
 
+<!-- BEGIN MSCA WORKING PAPERS -->
+
 No working papers are listed for this IRP.
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

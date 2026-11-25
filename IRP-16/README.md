@@ -15,17 +15,27 @@ The project evaluates whether established explainable AI methods help users inte
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 - **Investigating explainable artificial intelligence in financial time series modeling**
 
   Jens Reil · Branka H. Misheva · Lucia G. Teijeiro · Adam Kurpisz · Laura Spierdijk (2026). Journal article · Artificial Intelligence Review.
 
   [Zenodo](https://zenodo.org/records/24165806) · [DOI](https://doi.org/10.1007/s10462-026-11745-w) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24165805)
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 No preprints are listed for this IRP.
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
+
+<!-- BEGIN MSCA WORKING PAPERS -->
 
 - **Can Large Language Models Construct Risk-Appropriate and Efficient Portfolios?**
 
@@ -58,5 +68,7 @@ No preprints are listed for this IRP.
   Proposes weighting Shapley attributions by feature redundancy so that duplicate or highly correlated inputs receive less inflated shares of model credit.
 
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/resolving-the-duplicate-feature-paradox-with-reshap-a-redundancy-weighted-generalization-of-shapley-attribution)
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

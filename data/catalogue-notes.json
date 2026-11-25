@@ -1,0 +1,80 @@
+{
+  "publication": {
+    "zenodo-24163413": {
+      "source_title": "Hierarchy Aware Probabilistic Forecasting : Methodology and Application to Private Debt Market",
+      "title": "Hierarchy Aware Probabilistic Forecasting: Methodology and Application to Private Debt Market"
+    },
+    "zenodo-24165580": {
+      "accepted_preprint_doi": "10.48550/arxiv.2602.01368",
+      "summary": "Zenodo reports acceptance for the *Economics and Law* special issue. The linked arXiv version is titled *Trade-offs in Financial AI: Explainability in a Trilemma with Accuracy and Compliance*."
+    },
+    "zenodo-24198789": {
+      "other_type": "conference-paper",
+      "other_venue": "Proceedings of the International Conference on Business Excellence"
+    },
+    "zenodo-24199155": {
+      "other_type": "conference-paper",
+      "other_venue": "Proceedings of the International Conference on Business Excellence"
+    },
+    "zenodo-24199644": {
+      "other_type": "working-paper"
+    },
+    "zenodo-24278253": {
+      "other_type": "working-paper",
+      "summary": "A white paper on the mathematical foundations and basic algorithms of reinforcement learning."
+    },
+    "zenodo-24374970": {
+      "other_type": "conference-paper"
+    },
+    "zenodo-24377097": {
+      "other_type": "conference-paper"
+    },
+    "zenodo-24377402": {
+      "other_type": "working-paper",
+      "summary": "Studies how milestones in Ethereum’s development affect price discovery and market stability."
+    }
+  },
+  "working-paper": {
+    "applications-of-interpretable-and-explainable-machine-learning-in-insurance-pricing": {
+      "summary": "Compares machine learning with actuarial benchmarks for motor claims frequency and severity, using explanation tools and practitioner interviews to assess practical adoption."
+    },
+    "can-large-language-models-construct-risk-appropriate-and-efficient-portfolios": {
+      "summary": "Compares portfolios proposed by large language models across investor risk profiles with portfolios on the efficient frontier."
+    },
+    "developing-a-scale-of-public-explanation-needs-for-ai-assisted-financial-applications": {
+      "author_corrections": {
+        "Patri ia Marcella Evite": "Patricia Marcella Evite"
+      },
+      "summary": "Uses item response theory and 503 survey responses to develop and evaluate a scale for what the public wants explained about AI-assisted financial decisions."
+    },
+    "evaluating-explainable-artificial-intelligence-methods-for-financial-time-series-forecasting": {
+      "summary": "Uses simulated financial series to test the reliability of SHAP, LIME and Integrated Gradients under different volatility and dependence patterns."
+    },
+    "hierarchical-morphology-search": {
+      "summary": "Develops a search method for selecting useful levels of aggregation in hierarchical forecasts and studies when those levels improve reconciliation."
+    },
+    "more-than-a-shap-chart-a-ground-up-evaluation-criteria-for-financial-supervisors": {
+      "summary": "Uses central-bank supervisors’ requirements to develop X-TREAM, a prototype for assessing commercial banks’ AI models."
+    },
+    "polymarked": {
+      "irp_titles": {
+        "15": "Polymarked"
+      },
+      "omit_summary_for": [
+        "15"
+      ],
+      "source_title": "Polymarked: Imporving physical density estimation with prediction markets",
+      "summary": "Tests whether Bitcoin prediction-market prices improve probability forecasts relative to historical returns and maturity-matched options. The catalogue reports preliminary improvements in calibration on Brier and log scores.",
+      "title": "Polymarked: Improving physical density estimation with prediction markets"
+    },
+    "reciprocity-propensity-scores-an-ml-based-framework-for-non-monetary-economies": {
+      "summary": "Develops measures of reciprocity from transaction histories and compares models for predicting whether participants will reciprocate in a non-monetary exchange network."
+    },
+    "resolving-the-duplicate-feature-paradox-with-reshap-a-redundancy-weighted-generalization-of-shapley-attribution": {
+      "summary": "Proposes weighting Shapley attributions by feature redundancy so that duplicate or highly correlated inputs receive less inflated shares of model credit."
+    },
+    "scaling-tabular-foundation-models-for-credit-scoring": {
+      "summary": "Benchmarks ways to retrieve local context for tabular foundation models on large credit-scoring datasets."
+    }
+  }
+}

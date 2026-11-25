@@ -15,13 +15,19 @@ The project studies the adoption of financial technology in industry, with an em
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 - **Enhancing large language models for bitcoin time series forecasting**
 
   Owen Chaffard · Pablo Mollá · Marc Cavazza · Helmut Prendinger (2025). Journal article · Knowledge-Based Systems.
 
   [Publisher](https://www.sciencedirect.com/science/article/pii/S0950705125014881) · [DOI](https://doi.org/10.1016/j.knosys.2025.114449) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/chaffard-2025-bitcoin-llm)
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 - **Hierarchy Aware Probabilistic Forecasting: Methodology and Application to Private Debt Market**
 
@@ -29,7 +35,11 @@ The project studies the adoption of financial technology in industry, with an em
 
   [Zenodo](https://zenodo.org/records/24163414) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24163413)
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
+
+<!-- BEGIN MSCA WORKING PAPERS -->
 
 - **Hierarchical Morphology Search**
 
@@ -54,5 +64,7 @@ The project studies the adoption of financial technology in industry, with an em
   Tests whether Bitcoin prediction-market prices improve probability forecasts relative to historical returns and maturity-matched options. The catalogue reports preliminary improvements in calibration on Brier and log scores.
 
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/polymarked)
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

@@ -15,9 +15,15 @@ The project studies how explanations of complex financial models can be tailored
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 The catalogue links an accepted manuscript. See the preprint and publication status below.
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 - **Finance professionals' demands on AI: beyond accuracy and explainability**
 
@@ -27,7 +33,11 @@ The catalogue links an accepted manuscript. See the preprint and publication sta
 
   [Zenodo](https://zenodo.org/records/24165581) · [arXiv](https://arxiv.org/abs/2602.01368) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24165580)
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
+
+<!-- BEGIN MSCA WORKING PAPERS -->
 
 - **Developing a Scale of Public Explanation Needs for AI-Assisted Financial Applications**
 
@@ -52,5 +62,7 @@ The catalogue links an accepted manuscript. See the preprint and publication sta
   Uses central-bank supervisors’ requirements to develop X-TREAM, a prototype for assessing commercial banks’ AI models.
 
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/more-than-a-shap-chart-a-ground-up-evaluation-criteria-for-financial-supervisors)
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

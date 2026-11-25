@@ -15,18 +15,30 @@ The project studies fair algorithm design and portfolio optimization under susta
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 No publications are listed for this IRP.
+
+<!-- END MSCA PUBLICATIONS -->
 
 ## Preprints
 
-- **Decarbonizing the S&P 500: Sectoral Trade-offs Under Tracking-Error Constraints**
+<!-- BEGIN MSCA PREPRINTS -->
+
+- **Decarbonizing the S&amp;P 500: Sectoral Trade-offs Under Tracking-Error Constraints**
 
   Rebecca Di Francesco · Branka Hadji Misheva · Lucia Gomez · Adam Kurpisz (2026). Preprint.
 
   [Zenodo](https://zenodo.org/records/24275448) · [DOI](https://doi.org/10.2139/ssrn.6831118) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24275447)
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
 
+<!-- BEGIN MSCA WORKING PAPERS -->
+
 No working papers are listed for this IRP.
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

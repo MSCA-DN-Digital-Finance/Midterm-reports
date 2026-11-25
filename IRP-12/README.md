@@ -15,6 +15,8 @@ The project develops deep-learning approaches for automated trading in financial
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 - **A Multimodal Vision-Language Framework for Financial Anomaly Detection**
 
   Siang-Li Jheng · Daniel Traian Pele · Rahul Tak · Ștefan Gaman (2026). Conference paper · Proceedings of the International Conference on Business Excellence.
@@ -39,7 +41,11 @@ The project develops deep-learning approaches for automated trading in financial
 
   [Zenodo](https://zenodo.org/records/24374971) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24374970)
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 - **AI Listening to Central Banks: From Words to Markets and Macroeconomic Outcomes**
 
@@ -53,7 +59,11 @@ The project develops deep-learning approaches for automated trading in financial
 
   [Zenodo](https://zenodo.org/records/24373947) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24373946)
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
+
+<!-- BEGIN MSCA WORKING PAPERS -->
 
 - **Polymarked: Improving physical density estimation with prediction markets**
 
@@ -62,5 +72,7 @@ The project develops deep-learning approaches for automated trading in financial
   Tests whether Bitcoin prediction-market prices improve probability forecasts relative to historical returns and maturity-matched options. The catalogue reports preliminary improvements in calibration on Brier and log scores.
 
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/polymarked)
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

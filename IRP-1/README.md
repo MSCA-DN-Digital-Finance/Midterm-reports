@@ -15,13 +15,19 @@ The project investigates how European financial institutions can put reinforceme
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 - **Causal Analysis of Financial Time Series Pattern Preservation in Time Series Foundation Models**
 
   Mathis Jander · Wouter van Heeswijk · Martijn Mes (2026). Conference paper · ACM ICAIf '26 Multimodal and Foundation Models in Banking Workshop.
 
   [Zenodo](https://zenodo.org/records/24278430) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24278429)
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 - **A Survey on Current Practices for Time Series Foundation Model Evaluation**
 
@@ -41,7 +47,11 @@ The project investigates how European financial institutions can put reinforceme
 
   [Zenodo](https://zenodo.org/records/24278153) · [DOI](https://doi.org/10.2139/ssrn.5703882) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24278152)
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
+
+<!-- BEGIN MSCA WORKING PAPERS -->
 
 - **A Technical Introduction to Reinforcement Learning**
 
@@ -50,5 +60,7 @@ The project investigates how European financial institutions can put reinforceme
   A white paper on the mathematical foundations and basic algorithms of reinforcement learning.
 
   [Zenodo](https://zenodo.org/records/24278254) · [DOI](https://doi.org/10.2139/ssrn.4974206) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24278253)
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

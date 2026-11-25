@@ -1,0 +1,47 @@
+name: Sync midterm reports
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-midterm-reports
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - name: Refresh reports from MSCA GitHub Pages
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          for attempt in 1 2 3; do
+            # Regenerate from the latest main in this disposable checkout.
+            git fetch origin main
+            git reset --hard FETCH_HEAD
+            python3 scripts/sync_reports.py
+
+            git add -- README.md IRP-*/README.md
+            if git diff --cached --quiet; then
+              exit 0
+            fi
+            git diff --cached --check
+            git commit -m 'Sync midterm reports from MSCA GitHub Pages'
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          done
+
+          echo 'Could not push the refreshed reports to main.' >&2
+          exit 1

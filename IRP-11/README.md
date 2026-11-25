@@ -15,6 +15,8 @@ The project simulates interactions among lenders, firms and households to study 
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 - **Identifiable Regime Detection in Pension-Fund Networks via Sticky Hidden Markov Models**
 
   Megang Nkamga Junile Staures · Audrius Kabašinskas (2026). Journal article · Mathematics.
@@ -27,12 +29,22 @@ The project simulates interactions among lenders, firms and households to study 
 
   [Zenodo](https://zenodo.org/records/24195204) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24195203)
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 No preprints are listed for this IRP.
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
 
+<!-- BEGIN MSCA WORKING PAPERS -->
+
 No working papers are listed for this IRP.
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

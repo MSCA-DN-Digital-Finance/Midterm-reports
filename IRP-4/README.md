@@ -15,9 +15,15 @@ The project designs a recommender system to direct investment toward more sustai
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 No publications are listed for this IRP.
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 - **AI-Based Financial Recommender Systems: A Systematic Review of Methods, Evaluation Practices, and Open Challenges**
 
@@ -25,7 +31,11 @@ No publications are listed for this IRP.
 
   [Zenodo](https://zenodo.org/records/24469999) · [DOI](https://doi.org/10.2139/ssrn.7113178) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24469998)
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
+
+<!-- BEGIN MSCA WORKING PAPERS -->
 
 - **Can Large Language Models Construct Risk-Appropriate and Efficient Portfolios?**
 
@@ -34,5 +44,7 @@ No publications are listed for this IRP.
   Compares portfolios proposed by large language models across investor risk profiles with portfolios on the efficient frontier.
 
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/can-large-language-models-construct-risk-appropriate-and-efficient-portfolios)
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

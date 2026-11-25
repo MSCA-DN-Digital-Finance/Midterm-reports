@@ -4,7 +4,7 @@ Research interests, publications, preprints and working papers for all 17 Indivi
 
 The reports cover 15 publications, 13 preprints and 13 working papers from the MSCA catalogue. Shared catalogue entries appear in every associated IRP report, and the table counts them once per report.
 
-Report categories use the linked deposit or proceedings metadata where the catalogue label is broad. IRP-9 lists the accepted manuscript under Preprints and links the available versions.
+Reports use catalogue types and verified classifications for selected deposits.
 
 The reports link to the available Zenodo deposits. [IRP directory](https://msca-dn-digital-finance.github.io/irps/) · [Publications and preprints catalogue](https://msca-dn-digital-finance.github.io/Publications/) · [Working papers catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html)
 
@@ -29,3 +29,9 @@ The reports link to the available Zenodo deposits. [IRP directory](https://msca-
 | [IRP-17](IRP-17/README.md) | Rebecca Di Francesco | 0 | 1 | 0 | ❌ | ✅ |
 
 Industry feedback shows ❌ while pending and ✅ when received. A ✅ under Progress report means the report is available.
+
+## Catalogue sync
+
+GitHub Actions checks the MSCA Pages feed daily at 07:17 UTC. You can also run **Sync midterm reports** from the Actions tab. A run commits catalogue changes to the reports and updates the index counts.
+
+Add candidate-written material outside the marked catalogue blocks. The industry feedback and progress report columns are maintained by hand. The sync uses [catalogue notes](data/catalogue-notes.json) for curated paper annotations and classifications.

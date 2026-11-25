@@ -15,6 +15,8 @@ The MSCA profile provides project scope and has no separate candidate interests 
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 - **A Multimodal Vision-Language Framework for Financial Anomaly Detection**
 
   Siang-Li Jheng · Daniel Traian Pele · Rahul Tak · Ștefan Gaman (2026). Conference paper · Proceedings of the International Conference on Business Excellence.
@@ -45,7 +47,11 @@ The MSCA profile provides project scope and has no separate candidate interests 
 
   [Zenodo](https://zenodo.org/records/24376862) · [DOI](https://doi.org/10.1007/s00180-026-01742-6) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24376861)
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 - **Do Established Cryptocurrency Findings Survive Extended Data?**
 
@@ -53,7 +59,11 @@ The MSCA profile provides project scope and has no separate candidate interests 
 
   [Zenodo](https://zenodo.org/records/24366570) · [DOI](https://doi.org/10.2139/ssrn.6008194) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24366569)
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
+
+<!-- BEGIN MSCA WORKING PAPERS -->
 
 - **Do Investors Buy Innovation: Market Responses to Ethereum Development Milestones**
 
@@ -70,5 +80,7 @@ The MSCA profile provides project scope and has no separate candidate interests 
   Tests whether Bitcoin prediction-market prices improve probability forecasts relative to historical returns and maturity-matched options. The catalogue reports preliminary improvements in calibration on Brier and log scores.
 
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/polymarked)
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

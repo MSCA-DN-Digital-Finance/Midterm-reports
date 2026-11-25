@@ -19,6 +19,8 @@ The project focuses on using deep learning to generate financial time series. It
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 - **In the beginning was the Word: LLM-VaR and LLM-ES**
 
   Daniel Traian Pele · Vlad Bolovăneanu · Min-Bin Lin · Ren Rui · Andrei-Theodor Ginavar · Bruno Spilak · Alexandru-Victor Andrei · Filip-Mihai Toma · Stefan Lessmann · Wolfgang Karl Härdle (2026). Journal article · Expert Systems with Applications.
@@ -37,11 +39,21 @@ The project focuses on using deep learning to generate financial time series. It
 
   [Zenodo](https://zenodo.org/records/24199156) · [DOI](https://doi.org/10.2478/picbe-2025-0040) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24199155)
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
 
-No preprints listed for now, but the first paper below is on SSRN.
+<!-- BEGIN MSCA PREPRINTS -->
+
+No preprints are listed for this IRP.
+
+<!-- END MSCA PREPRINTS -->
+
+The working paper **Recalibrating Tail Risk Forecasts under Temporal Dependence** is also on SSRN.
 
 ## Working papers
+
+<!-- BEGIN MSCA WORKING PAPERS -->
 
 - **Recalibrating Tail Risk Forecasts under Temporal Dependence**
 
@@ -54,6 +66,8 @@ No preprints listed for now, but the first paper below is on SSRN.
   David Siang-Li Jheng · Owen Chaffard · Andrei-Theodor Ginavar · Stefan Gaman · Rahul Tak. In progress.
 
   [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/polymarked)
+
+<!-- END MSCA WORKING PAPERS -->
 
 ## Manuscripts in progress
 

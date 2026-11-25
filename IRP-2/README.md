@@ -15,9 +15,15 @@ The project develops green credit scoring for retail and business borrowers. It 
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 No publications are listed for this IRP.
 
+<!-- END MSCA PUBLICATIONS -->
+
 ## Preprints
+
+<!-- BEGIN MSCA PREPRINTS -->
 
 - **Integrating Physical Climate Hazards into Real Estate Collateral Valuation; A Stochastic Multi-Hazard Framework**
 
@@ -31,8 +37,14 @@ No publications are listed for this IRP.
 
   [Zenodo](https://zenodo.org/records/24365791) · [DOI](https://doi.org/10.2139/ssrn.6292484) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24365790)
 
+<!-- END MSCA PREPRINTS -->
+
 ## Working papers
 
+<!-- BEGIN MSCA WORKING PAPERS -->
+
 No working papers are listed for this IRP.
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)

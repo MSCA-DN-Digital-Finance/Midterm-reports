@@ -13,14 +13,26 @@ The project studies how financial organizations can build and deploy learning sy
 
 ## Publications
 
+<!-- BEGIN MSCA PUBLICATIONS -->
+
 No publications are listed for this IRP.
+
+<!-- END MSCA PUBLICATIONS -->
 
 ## Preprints
 
+<!-- BEGIN MSCA PREPRINTS -->
+
 No preprints are listed for this IRP.
+
+<!-- END MSCA PREPRINTS -->
 
 ## Working papers
 
+<!-- BEGIN MSCA WORKING PAPERS -->
+
 No working papers are listed for this IRP.
+
+<!-- END MSCA WORKING PAPERS -->
 
 [All midterm reports](../README.md)
