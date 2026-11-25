@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Patricia Marcella Evite
 - **Affiliation** · University of Naples Federico II
 
-Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-9.html)
+Paper catalogue snapshot dated 25 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-9.html)
 
 ## Research interests
 
@@ -46,6 +46,12 @@ The catalogue links an accepted manuscript. See the preprint and publication sta
   Uses item response theory and 503 survey responses to develop and evaluate a scale for what the public wants explained about AI-assisted financial decisions.
 
   [Linked draft](https://github.com/MSCA-DN-Digital-Finance/WP3_eXplainable_and_Fair_AI/blob/main/IRP9/Papers/Public_Survey___IRT_Method.pdf) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/developing-a-scale-of-public-explanation-needs-for-ai-assisted-financial-applications)
+
+- **Explainable AI is a deadend: The Case for Open-Access Mandates and CopyLeft AI**
+
+  Patricia Marcella Evite · John Rankin. Research idea.
+
+  [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/working-papers.html#working-paper/explainable-ai-is-a-deadend-the-case-for-open-access-mandates-and-copyleft-ai)
 
 - **Reciprocity Propensity Scores: An ML-based Framework for Non-monetary Economies**
 

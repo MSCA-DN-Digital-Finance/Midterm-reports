@@ -1,8 +1,8 @@
 # MSCA DIGITAL midterm reports
 
-Research interests, publications, preprints and working papers for all 17 Individual Research Projects (IRPs). Paper catalogue snapshot taken on 24 November 2026.
+Research interests, publications, preprints and working papers for all 17 Individual Research Projects (IRPs). Paper catalogue snapshot taken on 25 November 2026.
 
-The reports cover 15 publications, 13 preprints and 13 working papers from the MSCA catalogue. Shared catalogue entries appear in every associated IRP report, and the table counts them once per report.
+The reports cover 15 publications, 13 preprints and 14 working papers from the MSCA catalogue. Shared catalogue entries appear in every associated IRP report, and the table counts them once per report.
 
 Reports use catalogue types and verified classifications for selected deposits.
 
@@ -18,7 +18,7 @@ The reports link to the available Zenodo deposits. [IRP directory](https://msca-
 | [IRP-6](IRP-6/README.md) | Unassigned | 0 | 0 | 0 | ❌ | ✅ |
 | [IRP-7](IRP-7/README.md) | Stefan Gaman | 5 | 1 | 2 | ❌ | ✅ |
 | [IRP-8](IRP-8/README.md) | David Siang-Li Jheng | 4 | 2 | 1 | ❌ | ✅ |
-| [IRP-9](IRP-9/README.md) | Patricia Marcella Evite | 0 | 1 | 3 | ❌ | ✅ |
+| [IRP-9](IRP-9/README.md) | Patricia Marcella Evite | 0 | 1 | 4 | ❌ | ✅ |
 | [IRP-10](IRP-10/README.md) | Ismail Elbouknify | 0 | 0 | 0 | ❌ | ✅ |
 | [IRP-11](IRP-11/README.md) | Megang Nkamga Junile Staures | 2 | 0 | 0 | ❌ | ✅ |
 | [IRP-12](IRP-12/README.md) | Rahul Tak | 4 | 2 | 1 | ❌ | ✅ |

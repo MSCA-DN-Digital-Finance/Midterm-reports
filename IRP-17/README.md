@@ -5,7 +5,7 @@
 - **Doctoral candidate** · Rebecca Di Francesco
 - **Affiliation** · Bern University of Applied Sciences (BFH)
 
-Paper catalogue snapshot dated 24 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-17.html)
+Paper catalogue snapshot dated 25 November 2026. [MSCA research profile](https://msca-dn-digital-finance.github.io/irps/irp-17.html)
 
 ## Research interests
 
@@ -27,9 +27,9 @@ No publications are listed for this IRP.
 
 - **Decarbonizing the S&amp;P 500: Sectoral Trade-offs Under Tracking-Error Constraints**
 
-  Rebecca Di Francesco · Branka Hadji Misheva · Lucia Gomez · Adam Kurpisz (2026). Preprint.
+  Rebecca Di Francesco · Branka Hadji Misheva · Lucia Gomez Teijeiro · Adam Kurpisz (2026). Preprint.
 
-  [Zenodo](https://zenodo.org/records/24275448) · [DOI](https://doi.org/10.2139/ssrn.6831118) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24275447)
+  [Zenodo](https://zenodo.org/records/24470154) · [MSCA catalogue](https://msca-dn-digital-finance.github.io/Publications/#publication/zenodo-24470153)
 
 <!-- END MSCA PREPRINTS -->
 
